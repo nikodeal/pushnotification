@@ -136,7 +136,6 @@ export default function HomeScreen() {
           justifyContent: "space-around",
         }}
       >
-
         <Text>Your Expo push token: {expoPushToken}</Text>
         <View style={{ alignItems: "center", justifyContent: "center" }}>
           <Text>

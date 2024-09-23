@@ -128,6 +128,7 @@ export default function HomeScreen() {
         />
       }
     >
+      
       <View
         style={{
           backgroundColor: 'white',

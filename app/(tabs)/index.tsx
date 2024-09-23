@@ -128,7 +128,6 @@ export default function HomeScreen() {
         />
       }
     >
-      
       <View
         style={{
           backgroundColor: 'white',
@@ -148,7 +147,6 @@ export default function HomeScreen() {
             {notification && JSON.stringify(notification.request.content.data)}
           </Text>
         </View>
-        
         <Button
           title="Press to Send Notification"
           onPress={async () => {

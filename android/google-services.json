@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1093733738833",
+    "project_id": "fcm-pushnotes",
+    "storage_bucket": "fcm-pushnotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093733738833:android:33f745a2c0bb5710724b70",
+        "android_client_info": {
+          "package_name": "com.example.push_notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcDhepQrKtU1PEI3Y2y0k0Paa7XXiVhXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
